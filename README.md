@@ -4,14 +4,33 @@ A repo of data structure and algorithm problems with whiteboard solutions.  Reso
 - https://github.com/TheAlgorithms/Python
 - https://awesome-python.com
 
+# To do
+- **array sorting algos**
+- quicksort 'in place' solution
+- mergesort
+- heapsort
+- shellsort
+- radix
 
-# Explanation of sorting algorithms
+- **graph based**
+- binary tree implementations/searching
+- Djikstra
+- A*
 
-**Bubble sort**
-- starting at the beginning of an array:
-- compare arr elements arr[i], arr[i+1]
-- move larger value to right (i+1) and lower to left (i)
-- repeat j times, terminating sort at n-jth element (sorted elements)
+- **general knowledge**
+- time and space complexity of algorithms (average, worst, etc)
 
-**Insertion sort**
-- 
+
+# Implemented algorithms:
+
+O(n^2):
+- bubble sort
+- selection sort
+- insertion sort
+
+O(n log(n)):
+- quick sort
+
+
+
+

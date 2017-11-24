@@ -2,7 +2,6 @@
 # https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py
 # https://stackoverflow.com/questions/18262306/quicksort-with-python
 
-
 # quicksort algo:
 # 1) choose a "pivot" value from the array
 # 2) move all elements less than pivot to left, more to right
