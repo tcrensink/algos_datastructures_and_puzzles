@@ -1,6 +1,9 @@
 # implement recursive call quicksort algo:
+# https://github.com/TheAlgorithms/Python/blob/master/sorts/quick_sort.py
+# https://stackoverflow.com/questions/18262306/quicksort-with-python
 
-# quicksort algo, divide and conquer:
+
+# quicksort algo:
 # 1) choose a "pivot" value from the array
 # 2) move all elements less than pivot to left, more to right
 # 3) treat sub arrays the same: choose pivot, and sort leq to left, greater to right of pivot(s)
@@ -24,7 +27,6 @@ def quick_sort(arr):
 
 # in place solution...
 #def quick_sort(arr):
-
 
 
 
