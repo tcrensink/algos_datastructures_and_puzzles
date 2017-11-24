@@ -1,45 +1,47 @@
 #bubble sort: https://practice.geeksforgeeks.org/problems/sort-the-array/0
 
-
-# move sequentially through an array, swapping adjacent entries if they're out of order.  Sweep through until array is sorted.
-
+# BUBBLE SORT FROM MEMORY:
+# pairwise comparison of two elements, moving max to right array location
+# after first round, a comparison has been made with the largest element and every other (its now sorted at end)
 
 def bubble_sort(arr):
 
-	sorted = False
-	while sorted == False:
-		
-		sorted = True
-		
-		for j in range(len(arr)-1):
+	n = len(arr)
+
+	for i in range(n):
+
+		for j in range(n - i - 1):
 
 			if arr[j] > arr[j+1]:
-				
-				sorted = False
+
 				arr[j], arr[j+1] = arr[j+1], arr[j]
 
-	print('sorted array:', arr)
+	print('sorted array: ', arr)
 	return arr
 
 
-# POSTED SOLUTION.  Can truncate inner loop by 'i' since they are sorted at the end.
-def bubbleSort(arr):
-	n = len(arr)
- 
-	# Traverse through all array elements
-	for i in range(n):
- 
-		# Last i elements are already in place
-		for j in range(0, n-i-1):
- 
-			# traverse the array from 0 to n-i-1
-			# Swap if the element found is greater
-			# than the next element
-			if arr[j] > arr[j+1] :
-				arr[j], arr[j+1] = arr[j+1], arr[j]
 
-	print('sorted array:', arr)
-	return arr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == '__main__':

@@ -1,12 +1,13 @@
 # insertion sort:
 
 # Algo: 
-# 0 move through array
-# 1 insert the ith element in sorted position of the ith subarray
-# 2 continue until the last element
+# 0 move to next unsorted element in array, the key
+# 1 scan through sorted subarray (to the left); find the position it belongs
+# 2 move all larger sorted elements to the right by one step
+# 3 insert the key
 
 
-def insert_sort(arr):
+def insertion_sort(arr):
 	
 	l = len(arr)
 
@@ -24,16 +25,16 @@ def insert_sort(arr):
 
 		arr[k+1] = key
 
-	print('sorted array: ', arr)
+	return arr
 
 
 if __name__ == '__main__':
 
 	import random
+	arr = [random.randint(0,12) for j in range(8)]
 
-	arr = [random.randint(0,20) for j in range(10)]
-
-	insert_sort(arr)
+	print('original array: ', arr)
+	print('sorted array: ', insertion_sort(arr))
 
 
 
