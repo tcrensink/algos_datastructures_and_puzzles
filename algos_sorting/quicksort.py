@@ -10,8 +10,11 @@
 
 #it has been noted that this is not an "in place" solution and requires more memory:
 def quick_sort(arr):
+
+	if len(arr) <= 1:
+		return(arr)
 	
-	if len(arr) > 1:
+	else:	
 
 		pivot = arr[0]
 		lower = [el for el in arr[1:] if el <= pivot]
@@ -19,11 +22,7 @@ def quick_sort(arr):
 
 		return quick_sort(lower) + [pivot] + quick_sort(higher)
 
-	else:
-
-		return arr
-
-
+	
 # in place solution...
 #def quick_sort(arr):
 
