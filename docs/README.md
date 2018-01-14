@@ -1,4 +1,4 @@
-A repo with examples of basic CS stuff: datastructures, sorting, graph algorithms, and daily coding puzzles.  
+A repo with examples of basic CS stuff: data structures, sorting, graph algorithms, and daily coding puzzles.  
 
 ### Some resources:
 
