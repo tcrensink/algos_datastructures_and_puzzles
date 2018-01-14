@@ -9,5 +9,5 @@ A repo with examples of basic CS stuff: data structures, sorting, graph algorith
 
 ### Daily puzzle log:
 
-- 01/14/2018 | leetcode 654 | maximum binary tree
-- 01/13/2018 | leetcode 617 | merge binary trees
+- 01/14/2018 | [leetcode 654](https://leetcode.com/problems/maximum-binary-tree/description/) | maximum binary tree
+- 01/13/2018 | [leetcode 617](https://leetcode.com/problems/merge-two-binary-trees/) | merge binary trees
