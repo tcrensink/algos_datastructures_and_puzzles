@@ -1,6 +1,6 @@
 A repo with examples of basic CS stuff: data structures, sorting, graph algorithms, and daily coding puzzles.  
 
-### Some resources:
+### Resources:
 
 - https://leetcode.com
 - https://en.wikipedia.org/wiki/Sorting_algorithm
