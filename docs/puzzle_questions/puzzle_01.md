@@ -1,19 +1,23 @@
 Given an NxN matrix (nested list), print the NW to SE diagonal values on a new line, starting from the NE most corner down to the SW most corner.  For example:
 
+input:
 
     M = [
-     [11 12 13 14],
-     [21 22 23 24],
-     [31 32 33 34],
-     [41 42 43 44],
+    [95,  2, 46, 74, 21],
+    [78, 62, 61, 81, 30],
+    [49, 97, 84, 72,  0],
+    [71,  2,  2, 76, 34],
+    [93,  0, 67, 99, 54]
     ]
 
 output:
 
-    14
-    13 24
-    12 23 34
-    11 22 33 44
-    21 32 43
-    31 42
-    41
+    21
+    74 30
+    46 81  0
+     2 61 72 34
+    95 62 84 76 54
+    78 97  2 99
+    49  2 67
+    71  0
+    93
