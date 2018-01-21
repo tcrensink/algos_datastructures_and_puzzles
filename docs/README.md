@@ -11,6 +11,7 @@ A repo with examples of basic CS stuff: data structures, sorting, graph algorith
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.20 | [leetcode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Average of Levels in Binary Tree |
 | 2018.01.19 | [hosted puzzle 01](./puzzle_questions/puzzle_01.md) | print NW-SE diagonals of an NxN matrix | 
 | 2018.01.18 | [leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| Maximum Depth of Binary Tree |
 | 2018.01.17 | [leetcode 001](https://leetcode.com/problems/two-sum/description/) | Two Sum |
