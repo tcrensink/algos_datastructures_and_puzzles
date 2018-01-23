@@ -1,13 +1,6 @@
-A repo with examples of basic CS stuff: data structures, sorting, graph algorithms, and daily coding puzzles.  
+A repo of basic CS examples: data structures, sorting, graph algorithms, and daily coding puzzles.  
 
-### Resources:
-
-- https://leetcode.com
-- https://en.wikipedia.org/wiki/Sorting_algorithm
-- https://github.com/TheAlgorithms/Python
-- https://awesome-python.com
-
-### Daily puzzles:
+### Puzzle of the Day:
 
 | date | link | description |
 | ---- | ---- | ----------- |
