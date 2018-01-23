@@ -11,6 +11,7 @@ A repo with examples of basic CS stuff: data structures, sorting, graph algorith
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.23 | [leetcode 508](https://leetcode.com/problems/most-frequent-subtree-sum/discuss/) | Most Frequent Subtree Sum |
 | 2018.01.22 | [leetcode 226](https://leetcode.com/problems/invert-binary-tree/description/) | Invert a binary tree |
 | 2018.01.21 | [leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 501. Find Mode in Binary Search Tree |
 | 2018.01.20 | [leetcode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Average of Levels in Binary Tree |
