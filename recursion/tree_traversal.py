@@ -13,12 +13,6 @@ class TreeNode:
 # Randomly generated tree (not BST)
 class Tree:
 	def __init__(self):
-		self.root = None
-
-		for j in node_vals:
-
-			self.left = TreeNode(node_vals.pop)
-			self.right = TreeNode(node_vals.pop)
 
 
 
