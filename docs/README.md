@@ -4,6 +4,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.24 | [leetcode 094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Binary Tree Inorder Traversal |
 | 2018.01.23 | [leetcode 508](https://leetcode.com/problems/most-frequent-subtree-sum/discuss/) | Most Frequent Subtree Sum |
 | 2018.01.22 | [leetcode 226](https://leetcode.com/problems/invert-binary-tree/description/) | Invert a binary tree |
 | 2018.01.21 | [leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 501. Find Mode in Binary Search Tree |
