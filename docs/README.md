@@ -1,9 +1,11 @@
 A repo of basic CS examples: data structures, sorting, graph algorithms, and daily coding puzzles.  
 
 ### Puzzle of the Day:
+<!-- | 2018.xx.xx | [leetcode xxx]() | (descr) | -->
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.27 | [leetcode 760](https://leetcode.com/problems/find-anagram-mappings/description/) | Find Anagram Mappings |
 | 2018.01.26 | [leetcode 002](https://leetcode.com/problems/add-two-numbers/description/) | Add Two Numbers Stored in Linked List by Digit |
 | 2018.01.25 | [leetcode 653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | Two Sum IV - Input is a BST |
 | 2018.01.24 | [leetcode 094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Binary Tree Inorder Traversal |
