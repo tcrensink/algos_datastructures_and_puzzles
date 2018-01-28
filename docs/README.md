@@ -5,6 +5,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.28 | [leetcode 766](https://leetcode.com/problems/toeplitz-matrix/description/) | Toeplitz Matrix |
 | 2018.01.27 | [leetcode 760](https://leetcode.com/problems/find-anagram-mappings/description/) | Find Anagram Mappings |
 | 2018.01.26 | [leetcode 002](https://leetcode.com/problems/add-two-numbers/description/) | Add Two Numbers Stored in Linked List by Digit |
 | 2018.01.25 | [leetcode 653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | Two Sum IV - Input is a BST |
