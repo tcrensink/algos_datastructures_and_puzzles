@@ -5,6 +5,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.01.30 | [leetcode 763](https://leetcode.com/problems/partition-labels/description/) | Partition Labels |
 | 2018.01.29 | [leetcode 021](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Merge Two Sorted Lists |
 | 2018.01.28 | [leetcode 766](https://leetcode.com/problems/toeplitz-matrix/description/) | Toeplitz Matrix |
 | 2018.01.27 | [leetcode 760](https://leetcode.com/problems/find-anagram-mappings/description/) | Find Anagram Mappings |
