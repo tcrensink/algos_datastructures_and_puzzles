@@ -5,6 +5,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.02.02 | [leetcode 771](https://leetcode.com/problems/jewels-and-stones/description/) | "Jewels and Stones" |
 | 2018.02.01 | [leetcode 100](https://leetcode.com/problems/same-tree/description/) | Same Tree |
 | 2018.01.31 | [leetcode 404](https://leetcode.com/problems/sum-of-left-leaves/description/) | Sum of Left Leaves |
 | 2018.01.30 | [leetcode 763](https://leetcode.com/problems/partition-labels/description/) | Partition Labels |
