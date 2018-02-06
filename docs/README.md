@@ -5,6 +5,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.02.06 | [leetcode 463](https://leetcode.com/problems/island-perimeter/description/) | "Island Perimeter" |
 | 2018.02.05 | [leetcode 739](https://leetcode.com/problems/daily-temperatures/submissions/1) | "Daily Temperatures" |
 | 2018.02.02 | [leetcode 771](https://leetcode.com/problems/jewels-and-stones/description/) | "Jewels and Stones" |
 | 2018.02.01 | [leetcode 100](https://leetcode.com/problems/same-tree/description/) | Same Tree |
