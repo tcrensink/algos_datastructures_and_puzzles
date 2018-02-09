@@ -5,6 +5,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.02.09 | [leetcode 155](https://leetcode.com/problems/min-stack/discuss/49022/My-Python-solution) | "(OO) Min Stack" | 
 | 2018.02.08 | [leetcode 035](https://leetcode.com/problems/search-insert-position/description/) | "Search Insert Position" |
 | 2018.02.07 | [leetcode 695](https://leetcode.com/problems/max-area-of-island/description/) | "Max Area of Island" |
 | 2018.02.06 | [leetcode 463](https://leetcode.com/problems/island-perimeter/description/) | "Island Perimeter" |
@@ -23,7 +24,7 @@ A repo of basic CS examples: data structures, sorting, graph algorithms, and dai
 | 2018.01.22 | [leetcode 226](https://leetcode.com/problems/invert-binary-tree/description/) | Invert a binary tree |
 | 2018.01.21 | [leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | Find Mode in Binary Search Tree |
 | 2018.01.20 | [leetcode 637](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Average of Levels in Binary Tree |
-| 2018.01.19 | [hosted puzzle 01](./puzzle_questions/puzzle_01.md) | print NW-SE diagonals of an NxN matrix | 
+| 2018.01.19 | [hosted puzzle 01](./puzzles/hosted/puzzle_01.md) | print NW-SE diagonals of an NxN matrix | 
 | 2018.01.18 | [leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| Maximum Depth of Binary Tree |
 | 2018.01.17 | [leetcode 001](https://leetcode.com/problems/two-sum/description/) | Two Sum |
 | 2018.01.16 | [leetcode 513](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Find Bottom Left Tree Value |
