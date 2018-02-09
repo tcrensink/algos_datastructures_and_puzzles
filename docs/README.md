@@ -1,10 +1,11 @@
 A repo of basic CS examples: data structures, sorting, graph algorithms, and daily coding puzzles.  
 
-### Puzzle of the Day:
+### Puzzle of the day:
 <!-- | 2018.xx.xx | [leetcode xxx]() | (descr) | -->
 
 | date | link | description |
 | ---- | ---- | ----------- |
+| 2018.02.08 | [leetcode 035](https://leetcode.com/problems/search-insert-position/description/) | "Search Insert Position" |
 | 2018.02.07 | [leetcode 695](https://leetcode.com/problems/max-area-of-island/description/) | "Max Area of Island" |
 | 2018.02.06 | [leetcode 463](https://leetcode.com/problems/island-perimeter/description/) | "Island Perimeter" |
 | 2018.02.05 | [leetcode 739](https://leetcode.com/problems/daily-temperatures/submissions/1) | "Daily Temperatures" |
