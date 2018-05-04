@@ -1,3 +1,10 @@
+"""
+- method traverse:
+    - returns False if node is a leaf
+    - if compliment is found, returns True
+    - if not, adds root.val to set `vals` and recurses to children
+"""
+
 class Solution:
     def findTarget(self, root, k):
         """
@@ -5,32 +12,21 @@ class Solution:
         :type k: int
         :rtype: bool
         """
-        # trace tree; compliment of each value goes into a set
-        # if element exists in set, change flag to true
-        
-        # to fix: flag must be contained in a list to be modified in traverse().  This is pretty inelegant.  Revise, try to revise using a flag in the first place...
-        
-        compliment = set()
-        flag = [False]
-        
-        def traverse(root, k, flag):
-                
-            if root is None:
-                return None
-            
-            if root.val in compliment:
-                flag[0] = True
-            else:
-                compliment.add(k-root.val)
-            
-            print(root.val)
-            
-            traverse(root.left, k, flag)        
-            traverse(root.right, k, flag)
-            return root
-        
-        
-        traverse(root, k, flag)
-        return flag[0]        
-        
-        
+        """
+        :type root: TreeNode
+        :type k: int
+        :rtype: bool
+        """
+        vals = set()
+        return self.traverse(root, k, vals)
+
+    def traverse(self, root, k, vals):
+
+        if root is None:
+            return False
+
+        if k - root.val in vals:
+            return True
+        else:
+            vals.add(root.val)
+            return self.traverse(root.left, k, vals) or self.traverse(root.right, k, vals)

@@ -1,7 +1,7 @@
-def factorial(value):
+def factorial(n):
 
-	if value <= 1:
+	if n == 1:
 		return 1
 	else:
-		return value*factorial(value - 1)
+		return n*factorial(n - 1)
 

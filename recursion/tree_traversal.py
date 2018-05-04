@@ -1,5 +1,6 @@
 import random
 """
+(incomplete)
 Generate a binary tree and write a few recursive algorithms to traverse it, performing various functions:
 """
 
@@ -13,9 +14,6 @@ class TreeNode:
 # Randomly generated tree (not BST)
 class Tree:
 	def __init__(self):
-
-
-
 
 class Solution:
     def reproduceTree(self, root):
@@ -31,9 +29,9 @@ class Solution:
         if root.val < L or root.val > R:
         
             return self.trimBST(root.left, L, R)
-            return self.trimBST(root.right,L, R)
+            return self.trimBST(root.right, L, R)
         
         else:
             return self.trimBST(root.left, L, R)
-            return self.trimBST(root.right,L, R)
+            return self.trimBST(root.right, L, R)
         

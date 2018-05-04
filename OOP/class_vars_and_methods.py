@@ -5,9 +5,9 @@ Class.class_var = 'new_val': updates the class variable, even when accessed from
 
 instance.class_var = 'new_val': creates an instance attribute named "class_var".  It will shadow the class variable by the same name for that instance.
 
-Q.class_var: syntax required to modify the class variable inside the class.
+MyClass.class_var: syntax required to modify the class variable inside the class.
 
-del instance.class_var: deletes the instane attribute, allowing access to the class variable again...
+del instance.class_var: deletes the instance attribute, allowing access to the class variable again...
 
 @staticmethod
 static_method(): -> static methods can't modify class or instance variables.  They take no arguments.
